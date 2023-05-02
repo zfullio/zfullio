@@ -2,6 +2,7 @@
 
 ### About me
 🌱 I’m just only human
+<img src="https://komarev.com/ghpvc/?username=zfullio&style=flat-square&color=blue" alt=""/>
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
