@@ -8,8 +8,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="Golang" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" title="Docker" width="40" height="40"/>&nbsp;
+ <img src="https://cncf-branding.netlify.app/img/projects/grpc/icon/white/grpc-icon-white.svg" title="gRPC" alt="gRPC" width="40" height="40"/>&nbsp;
 
-### Languages and tools
+
+### Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zfullio&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zfullio&theme=default&utcOffset=8) 
           
